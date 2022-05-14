@@ -19,6 +19,8 @@
 - Applications with steady state or predictable usage or that require reserved capacity
 - Commitment: 1 or 3 years
 - Up to 75% discount
+- Can not be redeemed
+- Can be sold at AWS marketplace
 #### Spot
 - Applications that have flexible start and end times and that are only feasible at very low compute prices
 - Spare computing capacity

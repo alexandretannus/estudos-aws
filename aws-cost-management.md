@@ -42,3 +42,28 @@
 - Track charges 
 - Combine charges (volume pricing discounts)
 - No extra fee
+
+## AWS Budgets
+- Create threshold-based alerts
+- Avalilable for EC2, RDS, Redshift, ElastiCache and Elasticsearch
+
+## AWS Cloud Watch
+- Monitor estimated AWS charges
+
+## AWS Cost Explorer 
+- Visualize and understand costs
+
+## AWS Cost and Usage Report
+- View usage for AWS services by category
+
+## AWS CloudTrail
+- Log API activity
+
+## Total Cost of Ownership (TCO)
+- Compare on-premises and AWS Cloud costs
+- Document all the costs
+  - Facilities equipment installation 
+  - Facility operation
+  - Data security
+  - Hardware procurement teams
+  - 
